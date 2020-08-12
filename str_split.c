@@ -1,8 +1,8 @@
-#include <stdio.h>
+#include<stdio.h>
 #include<string.h>
 int main()
 {
-   char string[100]="my_name_is_edcast_future_skills";
+   char string[100]="This_is_in_Github_repo";
    char* token = strtok(string, "_");
    while(token != NULL)
    {
