@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1600874042 source:f:\cblox\array\array.cpp
+	<iostream>
+	"array.h"
+	<algorithm>
+
+1600874042 f:\cblox\array\array.h
+
+1600874042 source:f:\cblox\array\array_test.cpp
+	"array.h"
+	"array.cpp"
+	<gtest/gtest.h>
+
+1600874042 f:\cblox\array\array.cpp
+	<iostream>
+	"array.h"
+	<algorithm>
+
+1600874042 source:f:\cblox\array\array.h
+
